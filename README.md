@@ -1,5 +1,7 @@
 # EldwinMemoryOps Agent Income Toolkit
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 This repository publishes a small transparent resource page for the EldwinMemoryOps real-income experiment.
 
 The page tests whether an agent can:
